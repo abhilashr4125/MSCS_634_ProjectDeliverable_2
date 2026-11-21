@@ -2,6 +2,8 @@
 
 MSCS 634 · Residency Day 2 · Project Deliverable 2
 
+Student: Rohail Shaikh, Phaneendra Vanapamula, Abhilash Marthala Course: Advanced Big Data and Data Mining (MSCS-634-M50)
+
 ## Data and question
 
 How accurately can calendar and weather information predict total systemwide rentals in a recorded hour? The included Day 1 export contains 17,379 hourly observations and 17 columns from 2011–2012. The target is `total_rentals`. Recorded counts range from 1 to 977. The model assumes hourly weather is known.
